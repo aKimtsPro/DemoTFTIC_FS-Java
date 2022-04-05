@@ -12,7 +12,6 @@ public class DemoTernaire {
 //            System.out.println("Vous êtes un enfant");
 
         System.out.println( age >= 18 ? "Vous êtes un adulte" : "Vous êtes un enfant" );
-
     }
 
 }
